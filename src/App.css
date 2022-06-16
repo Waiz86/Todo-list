@@ -1,0 +1,25 @@
+body{
+  background-color: #9266ff;
+}
+
+.container {
+background-color: rgb(245 0 87 / 50%);
+min-height: 500px;
+width: 400px;
+margin:40px auto;
+}
+
+h1{display: flex;
+justify-content: center;
+
+}
+
+form {
+  margin: 10px;
+  font-weight: bold;
+ color: aliceblue;
+}
+
+ul{
+  color: aliceblue;
+}
